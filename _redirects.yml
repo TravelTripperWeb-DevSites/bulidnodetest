@@ -2,3 +2,11 @@
 - contact: contactus
 - abotee: abouteeee
 - ABOUT/: https://google.com
+- to_test_url: http://google.co.in
+- to_test_url/: http://google.co.in
+- To_test_url: http://google.co.in
+- To_test_url/: http://google.co.in
+- To_Test_Url: http://google.co.in
+- To_Test_Url/: http://google.co.in
+- TO_TEST_URL: http://google.co.in
+- TO_TEST_URL/: http://google.co.in
